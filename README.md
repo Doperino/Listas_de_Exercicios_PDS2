@@ -1,4 +1,4 @@
-#<span style="color: #446ca2;">Listas de Exercícios de Programação e Desenvolvimento de Software 2 [<span style="color: #FF0000";>UFMG</span>]</span>
+# <span style="color: #446ca2;">Listas de Exercícios de Programação e Desenvolvimento de Software 2 [<span style="color: #FF0000";>UFMG</span>]</span>
 
 
 
